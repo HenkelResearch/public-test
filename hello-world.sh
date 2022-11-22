@@ -2,5 +2,5 @@
 set -e
 echo hello yo yo
 date
-uptime
+whoami
 echo bye
