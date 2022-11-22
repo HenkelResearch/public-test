@@ -1,6 +1,6 @@
 #!/bin/bash
 set -e
-echo hello
+echo hello yo
 date
 uptime
 echo bye
